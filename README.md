@@ -1,44 +1,206 @@
-# 👋 Hi, I'm Varun!
+<h1 align="center">Hi 👋, I'm Varun Chikoti</h1>
 
-🎓 I'm a final-year **Electronics and Computer Engineering** student at **Sreenidhi Institute of Science and Technology (SNIST)**.  
-💡 Passionate about building intelligent systems using **Django, Python, and Generative AI**.  
-🚀 Currently working on AI-driven applications that combine web technologies with modern LLM-based models.  
-📍 Always curious to learn, build, and contribute to open-source projects.
+<h3 align="center">
+AI Engineer Aspirant • Python Developer • Generative AI Enthusiast
+</h3>
 
----
-
-### 🧠 About Me
-- 🔭 **Current Projects:**  
-  - 🩺 [Medical AI Chatbot with RAG](https://github.com/Varun0818/Medical-AI-Chatbot-with-RAG) – an AI-enabled medical assistant using LangChain, ChromaDB, and BioMistral-7B  
-  - ✍️ [RAG Text Summarizer](https://github.com/Varun0818/rag-text-summarizer) – hybrid summarization using FAISS + Sentence-BERT  
-  - 💰 [Split Wiser using Django](https://github.com/Varun0818/split_wiser-using-Django) – group expense manager with authentication and data export  
-- 🌱 **Currently Learning:**  
-  - Advanced **Machine Learning**, **Deep Learning**, and **DSA**  
-- 🎓 **Certifications:**  
-  - 🧩 [GUVI - Generative AI Certification](https://www.guvi.in/share-certificate/your-cert-link-here)  
-  - 🐍 [Cisco - Python Essentials Certification](https://www.credly.com/badges/your-cert-link-here)  
-- ⚙️ **Tech Stack:**  
-  `Python` · `Django` · `LangChain` · `FAISS` · `ChromaDB` · `SQL` · `HTML` · `Git`
+<p align="center">
+Building intelligent AI systems using Python, Django, Machine Learning, and LLMs.
+</p>
 
 ---
 
-### 🧩 Tech & Tools
+## 🚀 About Me
 
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
-[![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)](https://www.djangoproject.com/)
-[![LangChain](https://img.shields.io/badge/LangChain-0066FF?style=for-the-badge)](https://www.langchain.com/)
-[![FAISS](https://img.shields.io/badge/FAISS-005571?style=for-the-badge)](https://faiss.ai/)
-[![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
-[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
-[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+🎓 Final-year Electronics & Computer Engineering student at SNIST  
+💡 Passionate about AI systems, backend development, and scalable ML applications  
+🧠 Exploring Generative AI, Agentic AI, RAG pipelines, and Edge AI  
+⚡ Solved 420+ LeetCode problems using Python  
+🚀 Actively building real-world AI projects focused on healthcare and automation
 
 ---
 
-### 🌐 Let's Connect!
-📫 **Email:** [varunchikoti18@gmail.com](mailto:varunchikoti18@gmail.com)  
-🔗 **LinkedIn:** [linkedin.com/in/varun-chikoti-aa7877315](https://www.linkedin.com/in/varun-chikoti-aa7877315)  
-💻 **GitHub:** [github.com/Varun0818](https://github.com/Varun0818)
+# 🔥 Featured Projects
+
+<table>
+<tr>
+<td width="50%">
+
+## 🩺 Medical AI Chatbot with RAG
+
+AI-powered medical assistant using:
+- LangChain
+- ChromaDB
+- PubMedBERT
+- BioMistral-7B
+
+### Features
+✅ Retrieval-Augmented Generation  
+✅ Medical PDF Processing  
+✅ Context-Aware Responses  
+✅ Vector Search using ChromaDB  
+
+🔗 Repository:  
+https://github.com/Varun0818/Medical-AI-Chatbot-with-RAG
+
+</td>
+
+<td width="50%">
+
+## 🧠 Edge-ML Medical Diagnosis
+
+Offline AI diagnostic system using:
+- Flask
+- ONNX Runtime
+- Scikit-learn
+
+### Features
+✅ Privacy-first AI  
+✅ Offline Predictions  
+✅ Multi-Disease Detection  
+✅ Analytics Dashboard  
+
+🔗 Repository:  
+https://github.com/Varun0818/edge-ml-medical-diagnosis
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+## 🚨 Smart Accident Response System
+
+Real-time emergency coordination platform with:
+- Django REST Framework
+- Firebase Firestore
+- Google Maps API
+
+### Features
+✅ Live GPS Tracking  
+✅ Responder Dashboard  
+✅ Severity Classification  
+✅ Real-time Updates  
+
+🔗 Repository:  
+https://github.com/Varun0818/smart_accident_response_management_system
+
+</td>
+
+<td width="50%">
+
+## ✍️ RAG Text Summarizer
+
+RAG-inspired summarization pipeline using:
+- Sentence-BERT
+- FAISS
+- BART
+
+### Features
+✅ Semantic Retrieval  
+✅ Abstractive Summarization  
+✅ GPU Support  
+✅ Intelligent Chunking  
+
+🔗 Repository:  
+https://github.com/Varun0818/rag-text-summarizer
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+## 💰 Split Wiser using Django
+
+Expense-sharing web application inspired by Splitwise.
+
+### Features
+✅ Group Expense Management  
+✅ Expense Splitting  
+✅ CSV Export  
+✅ Settlement Tracking  
+
+🔗 Repository:  
+https://github.com/Varun0818/split_wiser-using-Django
+
+</td>
+
+<td width="50%">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Varun0818&layout=compact" />
+
+</td>
+</tr>
+</table>
 
 ---
 
-⭐ *“Code. Learn. Build. Repeat.”*
+# 🛠️ Tech Stack
+
+## 💻 Languages
+<p>
+<img src="https://skillicons.dev/icons?i=python,java,js,html,css,sql" />
+</p>
+
+## ⚙️ Frameworks & Libraries
+<p>
+<img src="https://skillicons.dev/icons?i=django,flask,tensorflow,pytorch" />
+</p>
+
+## 🧠 AI / ML Tools
+`LangChain` • `FAISS` • `ChromaDB` • `ONNX Runtime` • `Sentence-BERT`
+
+## 🗄️ Databases & Tools
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,sqlite,firebase,git,github,vscode" />
+</p>
+
+---
+
+# 📊 Coding Profiles
+
+🧠 LeetCode:  
+https://leetcode.com/u/varun__18/
+
+💻 GitHub:  
+https://github.com/Varun0818
+
+---
+
+# 📈 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Varun0818&show_icons=true" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Varun0818" />
+</p>
+
+---
+
+# 🌐 Connect With Me
+
+📧 Email:  
+varunchikoti18@gmail.com
+
+🔗 LinkedIn:  
+https://linkedin.com/in/varun-chikoti-aa7877315
+
+---
+
+# 🎯 Career Interests
+
+- Artificial Intelligence
+- Machine Learning Engineering
+- Generative AI
+- Agentic AI Systems
+- Backend Development
+- AI Infrastructure
+
+---
+
+<p align="center">
+⭐ <b>Code • Learn • Build • Repeat</b> ⭐
+</p>
