@@ -5,18 +5,32 @@ AI Engineer Aspirant • Python Developer • Generative AI Enthusiast
 </h3>
 
 <p align="center">
-Building intelligent AI systems using Python, Django, Machine Learning, and LLMs.
+Building intelligent AI systems using Python, FastAPI, Django, Machine Learning, LLMs, RAG pipelines, and Agentic AI workflows.
 </p>
 
 ---
 
-## 🚀 About Me
+# 🚀 About Me
 
 🎓 Final-year Electronics & Computer Engineering student at SNIST  
-💡 Passionate about AI systems, backend development, and scalable ML applications  
-🧠 Exploring Generative AI, Agentic AI, RAG pipelines, and Edge AI  
+
+💡 Passionate about AI systems, backend engineering, scalable ML infrastructure, and intelligent automation  
+
+🧠 Exploring:
+- Generative AI
+- Agentic AI Systems
+- Retrieval-Augmented Generation (RAG)
+- Edge AI
+- AI Infrastructure & Orchestration
+
 ⚡ Solved 420+ LeetCode problems using Python  
-🚀 Actively building real-world AI projects focused on healthcare and automation
+
+🚀 Building real-world AI applications focused on:
+- Healthcare AI
+- Business Intelligence
+- Automation
+- Intelligent Analytics
+- Real-time Systems
 
 ---
 
@@ -26,22 +40,23 @@ Building intelligent AI systems using Python, Django, Machine Learning, and LLMs
 <tr>
 <td width="50%">
 
-## 🩺 Medical AI Chatbot with RAG
+## 🤖 BI Agent
 
-AI-powered medical assistant using:
-- LangChain
-- ChromaDB
-- PubMedBERT
-- BioMistral-7B
+AI-powered Business Intelligence agent designed to generate, validate, and execute SQL queries through a secure multi-agent workflow pipeline.
 
-### Features
-✅ Retrieval-Augmented Generation  
-✅ Medical PDF Processing  
-✅ Context-Aware Responses  
-✅ Vector Search using ChromaDB  
+### ⚙️ Tech Stack
+`FastAPI` • `LangGraph` • `LangChain` • `SQLite` • `Python`
+
+### ✨ Features
+✅ AI-driven SQL generation  
+✅ Query validation pipeline  
+✅ Read-only database safety  
+✅ Agentic workflow orchestration  
+✅ Automated business insights  
+✅ Structured multi-step reasoning  
 
 🔗 Repository:  
-https://github.com/Varun0818/Medical-AI-Chatbot-with-RAG
+https://github.com/Varun0818/bi-agent
 
 </td>
 
@@ -49,16 +64,18 @@ https://github.com/Varun0818/Medical-AI-Chatbot-with-RAG
 
 ## 🧠 Edge-ML Medical Diagnosis
 
-Offline AI diagnostic system using:
-- Flask
-- ONNX Runtime
-- Scikit-learn
+Offline privacy-first AI diagnostic system designed for low-resource healthcare environments.
 
-### Features
-✅ Privacy-first AI  
-✅ Offline Predictions  
-✅ Multi-Disease Detection  
-✅ Analytics Dashboard  
+### ⚙️ Tech Stack
+`Flask` • `ONNX Runtime` • `Scikit-learn` • `NumPy`
+
+### ✨ Features
+✅ Offline AI predictions  
+✅ Multi-disease detection  
+✅ ONNX inference pipeline  
+✅ Analytics dashboard  
+✅ Privacy-first architecture  
+✅ Real-time inference  
 
 🔗 Repository:  
 https://github.com/Varun0818/edge-ml-medical-diagnosis
@@ -69,41 +86,45 @@ https://github.com/Varun0818/edge-ml-medical-diagnosis
 <tr>
 <td width="50%">
 
-## 🚨 Smart Accident Response System
+## 🩺 Medical AI Chatbot with RAG
 
-Real-time emergency coordination platform with:
-- Django REST Framework
-- Firebase Firestore
-- Google Maps API
+LLM-powered medical assistant using Retrieval-Augmented Generation for contextual healthcare responses.
 
-### Features
-✅ Live GPS Tracking  
-✅ Responder Dashboard  
-✅ Severity Classification  
-✅ Real-time Updates  
+### ⚙️ Tech Stack
+`LangChain` • `ChromaDB` • `LlamaCpp` • `PubMedBERT`
+
+### ✨ Features
+✅ Retrieval-Augmented Generation  
+✅ Medical PDF processing  
+✅ Context-aware responses  
+✅ Semantic vector search  
+✅ BioMistral-7B integration  
+✅ Interactive chatbot interface  
 
 🔗 Repository:  
-https://github.com/Varun0818/smart_accident_response_management_system
+https://github.com/Varun0818/Medical-AI-Chatbot-with-RAG
 
 </td>
 
 <td width="50%">
 
-## ✍️ RAG Text Summarizer
+## 🚨 Smart Accident Response System
 
-RAG-inspired summarization pipeline using:
-- Sentence-BERT
-- FAISS
-- BART
+Real-time emergency coordination platform for faster accident reporting and medical response.
 
-### Features
-✅ Semantic Retrieval  
-✅ Abstractive Summarization  
-✅ GPU Support  
-✅ Intelligent Chunking  
+### ⚙️ Tech Stack
+`Django REST Framework` • `Firebase` • `Google Maps API`
+
+### ✨ Features
+✅ Live GPS tracking  
+✅ Responder dashboard  
+✅ Severity classification  
+✅ Real-time updates  
+✅ Emergency coordination  
+✅ Hospital & ambulance routing  
 
 🔗 Repository:  
-https://github.com/Varun0818/rag-text-summarizer
+https://github.com/Varun0818/smart_accident_response_management_system
 
 </td>
 </tr>
@@ -111,24 +132,45 @@ https://github.com/Varun0818/rag-text-summarizer
 <tr>
 <td width="50%">
 
-## 💰 Split Wiser using Django
+## ✍️ RAG Text Summarizer
 
-Expense-sharing web application inspired by Splitwise.
+RAG-inspired intelligent summarization pipeline combining semantic retrieval with abstractive summarization.
 
-### Features
-✅ Group Expense Management  
-✅ Expense Splitting  
-✅ CSV Export  
-✅ Settlement Tracking  
+### ⚙️ Tech Stack
+`Sentence-BERT` • `FAISS` • `BART` • `PyTorch`
+
+### ✨ Features
+✅ Semantic retrieval  
+✅ Abstractive summarization  
+✅ GPU support  
+✅ Intelligent chunking  
+✅ Retrieval-enhanced summaries  
+✅ NLP pipeline optimization  
 
 🔗 Repository:  
-https://github.com/Varun0818/split_wiser-using-Django
+https://github.com/Varun0818/rag-text-summarizer
 
 </td>
 
 <td width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Varun0818&layout=compact" />
+## 💰 Split Wiser using Django
+
+Expense-sharing and settlement management application inspired by Splitwise.
+
+### ⚙️ Tech Stack
+`Django` • `SQLite` • `HTML` • `CSS`
+
+### ✨ Features
+✅ Group expense management  
+✅ Expense splitting  
+✅ CSV export  
+✅ Settlement tracking  
+✅ Recurring expenses  
+✅ Authentication system  
+
+🔗 Repository:  
+https://github.com/Varun0818/split_wiser-using-Django
 
 </td>
 </tr>
@@ -140,16 +182,24 @@ https://github.com/Varun0818/split_wiser-using-Django
 
 ## 💻 Languages
 <p>
-<img src="https://skillicons.dev/icons?i=python,java,js,html,css,sql" />
+<img src="https://skillicons.dev/icons?i=python,java,javascript,html,css,sql" />
 </p>
 
-## ⚙️ Frameworks & Libraries
+---
+
+## ⚙️ Frameworks & Backend
 <p>
-<img src="https://skillicons.dev/icons?i=django,flask,tensorflow,pytorch" />
+<img src="https://skillicons.dev/icons?i=fastapi,django,flask,tensorflow,pytorch" />
 </p>
 
-## 🧠 AI / ML Tools
-`LangChain` • `FAISS` • `ChromaDB` • `ONNX Runtime` • `Sentence-BERT`
+---
+
+## 🧠 AI / ML Technologies
+
+`LangChain` • `LangGraph` • `FAISS` • `ChromaDB` • `ONNX Runtime`  
+`Sentence-BERT` • `LlamaCpp` • `Scikit-learn` • `BART`
+
+---
 
 ## 🗄️ Databases & Tools
 <p>
@@ -166,17 +216,7 @@ https://leetcode.com/u/varun__18/
 💻 GitHub:  
 https://github.com/Varun0818
 
----
 
-# 📈 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Varun0818&show_icons=true" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Varun0818" />
-</p>
 
 ---
 
@@ -198,6 +238,8 @@ https://linkedin.com/in/varun-chikoti-aa7877315
 - Agentic AI Systems
 - Backend Development
 - AI Infrastructure
+- AI Product Engineering
+- Intelligent Automation
 
 ---
 
